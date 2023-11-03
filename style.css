@@ -15,7 +15,7 @@ body {
 }
 #main > article{
     flex: 1;
-    background-color:  rgb(161, 112, 51);;
+    background-color:  rgb(161, 112, 51);
   }
 #main > article > h1{
   flex: 1;
