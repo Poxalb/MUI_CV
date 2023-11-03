@@ -6,19 +6,31 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  background-color: rgb(140, 79, 5);;
   margin: 0;
 }
 #main {
   display: flex;
   flex: 1;
 }
-#main > article {
+#main > article{
+    flex: 1;
+    background-color:  rgb(161, 112, 51);;
+  }
+#main > article > h1{
   flex: 1;
+}
+h2{
+    font-size: larger;
 }
 #main > nav{
   flex: 0 0 25vw;
   background-color: rgb(140, 79, 5);
+  
 } 
+#main >article> ul{
+  list-style-type:square;
+}
 #main > aside {
   flex: 0 0 10vw;
   background: rgb(140, 79, 5);
@@ -40,12 +52,12 @@ footer {
     display: flex;
     background: rgb(122, 55, 0);
     height: 5vh;
-    justify-self: center;
 
 }
 a{
     color: black;
     text-decoration: none;
+    overflow-wrap: break-word;
 }
 header, footer, article, nav, aside {
   padding: 1em;
