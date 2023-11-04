@@ -19,3 +19,7 @@ Note: I have done this curriculum as if I was in a fantasy world, is my way to b
 
 ### Figma Project
 > https://www.figma.com/file/diWFNOGG7gSzPedqYTdD9M/CV?type=design&node-id=0%3A1&mode=design&t=nJbkIIDTZO4WKJKT-1
+
+
+### Link to page:
+https://poxalb.github.io/Poxalb/
